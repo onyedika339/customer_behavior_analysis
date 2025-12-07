@@ -25,7 +25,7 @@ Missing Data: 37 missing values found in review_rating
 ## 3. Exploratory Data Analysis (Python)
 Initial data preparation and cleaning were executed in Python using pandas.
 
-Key Steps
+## Key Steps
 ✔ Data Loading & Initial Exploration
 Loaded CSV into a pandas DataFrame
 Used df.info() and df.describe() to understand dataset structure and distributions
