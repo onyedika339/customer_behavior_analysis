@@ -4,7 +4,7 @@ This project analyses customer shopping behavior using transactional data from 3
 The goal is to identify trends in customer demographics, spending patterns, discount usage, product preferences, and subscription behavior to support data-driven business decisions.
 
 This end-to-end project covers:
-Python → EDA → Data Cleaning → SQL (MySQL) → KPI Analysis → Power BI Dashboard → Business Recommendations
+Python → EDA → Data Cleaning → SQL (Postgre) → KPI Analysis → Power BI Dashboard → Business Recommendations
 
 ## 2. Dataset Summary
 Rows: 3,900
