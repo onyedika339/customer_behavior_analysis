@@ -165,6 +165,6 @@ If you'd like to connect or have questions about this project:
 - **Email:** *onyedikakenechukwu7@gmail.com*  
 - **LinkedIn:** www.linkedin.com/in/onyedika-kenechukwu-3b3151309 
 
-Feel free to reach out — always happy to discuss data, analytics, and dashboards!
+Feel free to reach out always happy to discuss data, analytics, and dashboards!
 
 ---
